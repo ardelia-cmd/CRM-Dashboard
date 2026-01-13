@@ -7,8 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 
-# paths inside your project
-TRAIN_JSON_PATH = "label_tr.json"            # copy this from Drive into your repo
+TRAIN_JSON_PATH = "label_tr.json"            
 STOPWORDS_CSV_PATH = "combined_stopwords.csv"
 
 TARGET_USERS = [
