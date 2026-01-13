@@ -5,7 +5,6 @@ from db_utils import create_tunnel_and_engine
 from classifier import train_classifier, predict_first_three
 from summary_metrics import compute_resp_df, compute_final_summary
 
-# change this to your real messages table name
 MESSAGES_TABLE = '"Message"'  
 
 
@@ -28,7 +27,7 @@ def get_final_summary():
     engine = get_engine()
     clf = get_classifier()
 
-    # adjust columns and table name to match your Postgres schema
+
     df_msg = pd.read_sql(
         f"""
         SELECT 
