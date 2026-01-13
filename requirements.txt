@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+nltk
+Sastrawi
+re
+collections
+sqlalchemy
+sshtunnel
+psycopg2-binary
+streamlit
+python-dotenv

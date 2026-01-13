@@ -1,0 +1,132 @@
+[
+    {
+        "fromMe":true,
+        "body":"Thank you for your message! I\u2019ll reply to you shortly I\u2019m currently assisting hundreds of queries from around the world ",
+        "Label Chat":"Chat Bot"
+    },
+    {
+        "fromMe":true,
+        "body":"Thanks for your message! I'll get back to you soon.",
+        "Label Chat":"Chat Bot"
+    },
+    {
+        "fromMe":true,
+        "body":"I am currently assisting other inquiries, please wait.",
+        "Label Chat":"Chat Bot"
+    },
+    {
+        "fromMe":true,
+        "body":"Thanks! I\u2019ll respond as soon as possible.",
+        "Label Chat":"Chat Bot"
+    },
+    {
+        "fromMe":true,
+        "body":"Thanks for your message. I\u2019m currently assisting many inquiries, but I\u2019ll respond shortly.",
+        "Label Chat":"Chat Bot"
+    },
+    {
+        "fromMe":true,
+        "body":"Thank you for your message! I'l reply to you shortly ,  I'm currently assisting hundreds of MUN enthusiasts from around the world\nI appreciate your patience",
+        "Label Chat":"Chat Bot"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi, I\u2019m interested in enrolling my teen in AYIMUN \/ AWMUN, Seoul \/ Kuala Lumpur \/ Bali \/ Bangkok. Could you share the proposal with me?\u00a0",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi! I\u2019d love to know more for my teen in AYIMUN \/ AWMUN, Seoul \/ Kuala Lumpur \/ Bali \/ Bangkok. Could you share more details about the program?",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":false,
+        "body":"Hello, I want to ask about AYIMUN \/ AWMUN, taking place in  Seoul \/ Kuala Lumpur \/ Bali \/ Bangkok",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":false,
+        "body":"Hello I'm interested in joining  AYIMUN \/ AWMUN, Seoul \/ Kuala Lumpur \/ Bali \/ Bangkok for my teen. Do you have a proposal or info kit I could check?",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi, I'm a parent interested in AYIMUN \/ AWMUN, Seoul \/ Kuala Lumpur \/ Bali \/ Bangkok for my teen. Could you send me the proposal and next steps?",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi! I'd like to know more about the Public Speaking Program",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi, I would like to know AYIMUN \/ AWMUN, Seoul \/ Kuala Lumpur \/ Bali \/ Bangkok. Could you share the proposal with me?",
+        "Label Chat":"Direct Chat"
+    },
+    {
+        "fromMe":true,
+        "body":"Congratulations on being selected to participate in .Before going further, please take a look at your email for your Letter of Acceptance, where you'll find all the details.",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":true,
+        "body":"I'm from the education consultant team. Congratulations on your selection. Did the announcement email reach you?",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":true,
+        "body":"I'm here to assist you with the next steps. Congrats on being chosen as a delegate. you are now nearly an official delegate of ours!  have you received your announcement email?",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":true,
+        "body":"it's great to connect with you. Congratulations on your acceptance. Please confirm if you received the announcement email.",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":true,
+        "body":"Congratulations on being selected to participate in. Please check your email for the LOA and Proposal, there you will find all the details.",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":true,
+        "body":"I'm committee for MUN. I would like to inform you that currently seats are filling up fast!",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":true,
+        "body":"Dear , I'm comittee for MUN. Previously I tried to contacting you but haven't get any reponses yet. I just want to share the fantastic news that your child has been selected for . Huge congratulations!",
+        "Label Chat":"Long Form"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi, I\u2019ve filled out the form because I\u2019m interested in enrolling my teen in  AYIMUN \/ AWMUN. Could you please share the proposal with me?",
+        "Label Chat":"Short Form"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi, I\u2019ve filled out the form because I\u2019d love to learn more for my teen in  AYIMUN \/ AWMUN. Could you please share more details about the program?",
+        "Label Chat":"Short Form"
+    },
+    {
+        "fromMe":false,
+        "body":"Hello, I have completed the registration form for my child for AYIMUN \/ AWMUN. Please find our details below",
+        "Label Chat":"Short Form"
+    },
+    {
+        "fromMe":false,
+        "body":"I just signed up because I'm truly interested in joining",
+        "Label Chat":"Short Form"
+    },
+    {
+        "fromMe":false,
+        "body":"Hello, please share the proposal because I would like to understand how the program. Parent's name, child's name",
+        "Label Chat":"Short Form"
+    },
+    {
+        "fromMe":false,
+        "body":"Hi, I am interested in enrolling my teen in AYIMUN \/ AWMUN, Kuala Lumpur. Could you share the proposal with me? \nWe look forward to hearing from you regarding the next steps.",
+        "Label Chat":"Short Form"
+    }
+]

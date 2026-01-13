@@ -1,0 +1,35 @@
+# ---- Python caches ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# ---- Virtual Environment ----
+venv/
+ENV/
+env/
+.venv/
+
+# ---- Secrets & Credentials ----
+.env
+
+# ---- OS / Editor Noise ----
+.DS_Store
+Thumbs.db
+
+# ---- Streamlit ----
+.streamlit/
+
+# ---- Logs ----
+*.log
+
+# ---- Model artifacts (future safe) ----
+*.pkl
+*.joblib
+
+# ---- Notebooks (if any) ----
+*.ipynb_checkpoints
+
+# ---- Backup & misc ----
+*~
