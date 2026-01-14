@@ -223,7 +223,7 @@ def chart_small_multiples_by_user(df_first: pd.DataFrame, selected_display_names
             name = selected_display_names[idx]
             d = df[df["displayName_ui"] == name]
 
-            with c.container(border=True, height="stretch"):
+            with c.container(border=True):
                 st.markdown(f"### {name}")
                 if d.empty:
                     st.caption("No data")
@@ -420,7 +420,7 @@ st.write("")
 
 # 5) Total leads per day per user (2x2)
 with st.container(border=True):
-    st.markdown("### Total Leads per Day per EC (2×2)")
+    st.markdown("### Total Leads per Day per EC")
     st.caption("Showing up to 4 selected ECs.")
     if filtered_first.empty:
         st.info("No data to plot.")
@@ -429,6 +429,6 @@ with st.container(border=True):
 
 # 6) Raw first message rows table
 with st.expander("Raw First Message Rows"):
-    cols = ["displayName_ui", "chatName", "timestamp", "pred_lbl_chat", "lead_type", "body"]
+    cols = ["displayName_ui", "chatName", "timestamp", "lead_type", "body"]
     raw = filtered_first[cols].sort_values("timestamp").rename(columns={"displayName_ui": "EC"})
     st.dataframe(raw, use_container_width=True)
